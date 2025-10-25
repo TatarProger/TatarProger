@@ -12,7 +12,7 @@ Actively developing pet projects to grow as an engineer and preparing for profes
 
 ## 🎓 Education
 
-- **Graduate of the [Yandex Mobile Development School (2024)](https://disk.yandex.ru/i/3kn3kIT5armJXQ)**  
+- **Graduate of the [Yandex Mobile Development School (2025)](https://disk.yandex.ru/i/3kn3kIT5armJXQ)**  
   Completed a comprehensive program focused on iOS development, architecture, and best engineering practices.  
   Gained hands-on experience working on real-world projects and collaborating in a team environment.
 
